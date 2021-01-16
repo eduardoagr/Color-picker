@@ -1,0 +1,1 @@
+C:\Users\egome\Documents\GitRepos\Color-picker\ColorPicker\ColorPicker\ColorPicker.UWP\ColorPicker.UWP.csproj;x86

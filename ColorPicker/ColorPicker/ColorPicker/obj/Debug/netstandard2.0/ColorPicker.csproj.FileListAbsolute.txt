@@ -1,0 +1,14 @@
+C:\Users\egome\Documents\GitRepos\Color-picker\ColorPicker\ColorPicker\ColorPicker\bin\Debug\netstandard2.0\ColorPicker.deps.json
+C:\Users\egome\Documents\GitRepos\Color-picker\ColorPicker\ColorPicker\ColorPicker\bin\Debug\netstandard2.0\ColorPicker.dll
+C:\Users\egome\Documents\GitRepos\Color-picker\ColorPicker\ColorPicker\ColorPicker\bin\Debug\netstandard2.0\ref\ColorPicker.dll
+C:\Users\egome\Documents\GitRepos\Color-picker\ColorPicker\ColorPicker\ColorPicker\bin\Debug\netstandard2.0\ColorPicker.pdb
+C:\Users\egome\Documents\GitRepos\Color-picker\ColorPicker\ColorPicker\ColorPicker\obj\Debug\netstandard2.0\ColorPicker.csprojAssemblyReference.cache
+C:\Users\egome\Documents\GitRepos\Color-picker\ColorPicker\ColorPicker\ColorPicker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\egome\Documents\GitRepos\Color-picker\ColorPicker\ColorPicker\ColorPicker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\egome\Documents\GitRepos\Color-picker\ColorPicker\ColorPicker\ColorPicker\obj\Debug\netstandard2.0\ColorPicker.AssemblyInfoInputs.cache
+C:\Users\egome\Documents\GitRepos\Color-picker\ColorPicker\ColorPicker\ColorPicker\obj\Debug\netstandard2.0\ColorPicker.AssemblyInfo.cs
+C:\Users\egome\Documents\GitRepos\Color-picker\ColorPicker\ColorPicker\ColorPicker\obj\Debug\netstandard2.0\ColorPicker.csproj.CoreCompileInputs.cache
+C:\Users\egome\Documents\GitRepos\Color-picker\ColorPicker\ColorPicker\ColorPicker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\egome\Documents\GitRepos\Color-picker\ColorPicker\ColorPicker\ColorPicker\obj\Debug\netstandard2.0\ColorPicker.dll
+C:\Users\egome\Documents\GitRepos\Color-picker\ColorPicker\ColorPicker\ColorPicker\obj\Debug\netstandard2.0\ref\ColorPicker.dll
+C:\Users\egome\Documents\GitRepos\Color-picker\ColorPicker\ColorPicker\ColorPicker\obj\Debug\netstandard2.0\ColorPicker.pdb

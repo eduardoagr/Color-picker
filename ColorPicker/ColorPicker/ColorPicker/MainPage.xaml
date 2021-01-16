@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ColorPicker.MainPage">
+
+    <StackLayout BackgroundColor="#FF424242">
+        <BoxView x:Name="boxColor"
+                 BackgroundColor="Black"
+                 HeightRequest="300" />
+        <Frame CornerRadius="20" 
+               VerticalOptions="Fill"
+               BackgroundColor="#8F8F8F">
+            <StackLayout>
+                <Label Margin="20,0,0,0"
+                       Text="Red"
+                       TextColor="White"
+                       FontSize="14"
+                       FontAttributes="Bold" />
+                <Slider Margin="20,0,20,0" 
+                        x:Name="redSlider"
+                        ValueChanged="Slider_ValueChanged" />
+                <Label Margin="20,0,0,0"
+                       Text="Green"
+                       TextColor="White"
+                       FontSize="14"
+                       FontAttributes="Bold" />
+                <Slider Margin="20,0,20,0" 
+                        x:Name="GreenSlider" 
+                        ValueChanged="Slider_ValueChanged" />
+                <Label Margin="20,0,0,0"
+                       Text="Blue"
+                       TextColor="White"
+                       FontSize="14"
+                       FontAttributes="Bold" />
+                <Slider Margin="20,0,20,0"
+                        x:Name="BlueSlider"
+                        ValueChanged="Slider_ValueChanged" />
+            </StackLayout>
+        </Frame>
+        <Label HorizontalOptions="Center"
+               Text="Hex Value"
+               x:Name="ValueColor"
+               FontSize="40"
+               FontAttributes="Bold"
+               Margin="30"
+               TextColor="White"/>
+    </StackLayout>
+
+</ContentPage>

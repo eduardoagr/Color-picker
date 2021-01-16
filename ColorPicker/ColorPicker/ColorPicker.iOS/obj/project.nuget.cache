@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0i04SyXvHXQwQcJimx9rB/2rjqSZ4z4E+BBDillojLb19z6r6nYDmj5R+0uKf1VE5w20SY2ULs07stkRgq1rzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\egome\\Documents\\GitRepos\\Color-picker\\ColorPicker\\ColorPicker\\ColorPicker.iOS\\ColorPicker.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\egome\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\egome\\.nuget\\packages\\xamarin.essentials\\1.6.0\\xamarin.essentials.1.6.0.nupkg.sha512",
+    "C:\\Users\\egome\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512"
+  ],
+  "logs": []
+}
